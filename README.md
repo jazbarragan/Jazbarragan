@@ -12,9 +12,9 @@
 - 👧 I am very organized, responsible and committed
 - :heartpulse: I like to work in groups
 - :zap:	I am a developer Full Stack in process...
-<br>
 <!-- Lenguajes -->
 <h2>Programming languages <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> </h2> 
+<br>
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -71,6 +71,7 @@
 </p>
 <!-- ambitos de desarrollo-->
 <h2>IDEs </h2> 
+<br>
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
