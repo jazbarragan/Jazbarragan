@@ -12,9 +12,7 @@
 - 👧 I am very organized, responsible and committed
 - :heartpulse: I like to work in groups
 - :zap:	I am a developer Full Stack in process...
-<br><br>
-
-## 💻 Technologies 
+<br>
 <!-- Lenguajes -->
 <h2>Programming languages <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> </h2> 
 <p align="center"> 
